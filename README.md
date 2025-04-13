@@ -6,7 +6,6 @@
 
 ## Tecnologias utilizadas no projeto
 * HTML
-* CSS
 * SASS
 * TS
 * React
