@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alura-tracker/static/css/main.8b51f1a3.css",
+    "main.js": "/alura-tracker/static/js/main.d597cbca.js",
+    "index.html": "/alura-tracker/index.html",
+    "main.8b51f1a3.css.map": "/alura-tracker/static/css/main.8b51f1a3.css.map",
+    "main.d597cbca.js.map": "/alura-tracker/static/js/main.d597cbca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b51f1a3.css",
+    "static/js/main.d597cbca.js"
+  ]
+}
